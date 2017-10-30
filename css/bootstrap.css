@@ -189,6 +189,8 @@ td,
 th {
   padding: 0;
 }
+map {
+}
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 @media print {
   *,
@@ -1301,6 +1303,9 @@ p {
   .lead {
     font-size: 21px;
   }
+.map-container {
+}
+
 }
 small,
 .small {
